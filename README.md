@@ -1,2 +1,2 @@
 # Java-Backend-Mentorship
-vvttss
+mentorship program for qualifying Java Backend Developers with solid basics and strong practical experience
