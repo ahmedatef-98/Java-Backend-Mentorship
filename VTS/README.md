@@ -28,7 +28,6 @@ VTS system to empower employees to manage their time off (vacation, sick, time p
 
 - Easy to use, intuitive, and intelligent
 - Clear screen distribution items that show employee available/consumed/planned balances
-- Manager view to see summery for his/her team’s vacations
 
 ### Constraints (Validations)
 
@@ -61,3 +60,9 @@ A lot of informal communication between manager & employees to handle vacation t
 - System Admin
 	- System data backups
 	- System Maintenance
+## Use Cases Diagrams
+### Manage Time
+#### Flow Diagram
+<img width="1021" height="1562" alt="VTS Manage Time drawio" src="https://github.com/user-attachments/assets/f281bb3b-6972-437e-8ecb-e28ad865eeaa" />
+#### 
+
